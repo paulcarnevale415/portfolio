@@ -32,3 +32,11 @@ p {
   padding: 20px;
   margin: 10px;
 }
+
+@media screen and (min-width: 768px) {
+  .body {
+    width: 300px;
+    float; left;
+    padding: 20px;
+  }
+}
