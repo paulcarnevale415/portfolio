@@ -16,4 +16,7 @@ _No Known bugs at this time on Chrome or Safari_
 ## Contact information
 _Support or contribution instructions_
 
+## GitHub URL
+_https://github.com/paulcarnevale415/portfolio_
+
 Copyright (c) 2019 **_Paul Carnevale_**
